@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://wallpapercosmos.com/w/middle-retina/1/7/6/28472-2560x1440-desktop-hd-mars-wallpaper-image.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-decoration-color: red;
+    text-align: center;
+    padding-top: 100px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    background-color: black;
+    color: orangered;
+    font-weight: bolder;
+    border: 0;
+}
+
+#enterNumber {
+
+    margin-top: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    background-color: rgb(146, 32, 3);
+    border: 0;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+#message{
+    margin-top: 20px;
+    font-size: 30px;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-shadow: 0 0 8px orangered;
+    display: inline-block;
+    box-shadow: 0 0 16px rgb(128, 68, 0);
+
+}
+#ins {
+    padding-top: 220px;
+    color: grey;
+    font-size: x-large;
+}
+
+#mars {
+
+    background-color: orangered;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+button:hover {
+
+    box-shadow: 0 0 30px orangered;
+    border-color: 1px orangered;
+}
+
+
+
+
